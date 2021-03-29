@@ -4,8 +4,8 @@
 text
 
 ## Requirement
-* list1
-* list2
+* list1 ver***
+* list2 ver***
 
 ## Features
 text
